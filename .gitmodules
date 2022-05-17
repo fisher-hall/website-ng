@@ -1,3 +1,4 @@
 [submodule "themes/fisher-website-theme"]
 	path = themes/fisher-website-theme
 	url = git@github.com:fisher-hall/fisher-website-theme.git
+	branch = main
